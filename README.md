@@ -24,3 +24,5 @@ Welcome to my GitHub profile! I am deeply passionate about the stock markets, st
 ---
 
 Feel free to explore my repositories and connect with me on GitHub!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=qiqieva&repo=expense-tracker&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
