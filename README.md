@@ -4,24 +4,22 @@ I am deeply passionate about the stock markets, startups, data, and programming.
 
 ## 🚀 About Me
 
-- **Passionate About**: Stock Markets, Startups, Data, Programming, Trading
-- **Currently Learning**: Data Science and Finance
+- 💡 **Passionate About**: Stock Markets, Startups, Data, Programming, Trading
+- 📚 **Currently Learning**: Data Science and Finance
 
 ## 💻 Skills and Interests
 
-- **Languages**:
-  - Python
-  - Java
-  - SQL
+`Python` `Java` `SQL` `Pandas` `NumPy` `Matplotlib` `GitHub` `SQL` `Excel`
 
-- **Frameworks/Libraries**:
-  - Pandas
-  - NumPy
-  - Matplotlib
+## 📊 Stats
 
-- **Tools**:
-  - GitHub
-  - SQL
-  - Excel
+![Yaqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiqieva&theme=ayu-mirage&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs)
 
-Feel free to explore my repositories and connect with me on GitHub!
+## 🛠️ Tools
+
+- **Version Control**: GitHub
+- **Database Management**: SQL
+- **Data Analysis**: Excel
+  
+
+Feel free to explore my repositories and connect with me on GitHub! 
