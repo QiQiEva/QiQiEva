@@ -24,4 +24,4 @@ I am deeply passionate about the stock markets, startups, data, and programming.
   - SQL
   - Excel
 
-Feel free to explore my repositories and connect with me on GitHub. Let's collaborate and make something awesome together!
+Feel free to explore my repositories and connect with me on GitHub!
