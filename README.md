@@ -4,7 +4,7 @@ I am deeply passionate about the stock markets, startups, data, and programming.
 
 ## 🚀 About Me
 
-- **Passionate About**: Stock Markets, Startups, Data, Programming
+- **Passionate About**: Stock Markets, Startups, Data, Programming, Trading
 - **Currently Learning**: Data Science and Finance
 
 ## 💻 Skills and Interests
