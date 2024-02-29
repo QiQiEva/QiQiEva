@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am deeply passionate about the stock markets, st
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=qiqieva&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide=contribs&rank_icon=github" alt="Yaqi's GitHub Stats"/>
+<img src="https://github-readme-stats-psi-beryl-68.vercel.app/api?username=qiqieva&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide=contribs&rank_icon=github" alt="Yaqi's GitHub Stats"/>
 
 ## 🛠️ Tools
 
