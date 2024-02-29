@@ -13,7 +13,7 @@ I am deeply passionate about the stock markets, startups, data, and programming.
 
 ## 📊 Stats
 
-![Yaqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiqieva&theme=ayu-mirage&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=qiqieva&theme=ayu-mirage&count_private=true&include_all_commits=true&rank_icon=github&hide=contribs)
 
 ## 🛠️ Tools
 
